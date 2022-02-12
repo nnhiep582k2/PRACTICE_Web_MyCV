@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #f46258;
+    --text-color: #37373d;
+    --text2-color: #5c5c6f;
+    --bg-sidebar: #f4f4f6;
+    --bg2-sidebar: #c0c0ca;
+}
+.mb_6 {
+    margin-bottom: 6px;
+}
+.pb_24 {
+    padding-bottom: 24px !important;
+}
+.col-sidebar {
+    width: 20%!important;
+    padding: 0;
+}
+.col-content {
+    width: 80%!important;
+    padding: 0 36px;
+}

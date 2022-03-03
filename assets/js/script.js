@@ -26,7 +26,7 @@ typeWriter();
 progress = () => {
     var percents = document.querySelectorAll('.informations .percent');
     var progresses = document.querySelectorAll('.informations .center__part-progress');
-    var arrProgress = [70, 75, 90, 85, 70, 85, 70];
+    var arrProgress = [70, 75, 90, 85, 95, 70, 85, 70];
     for(let i = 0; i < arrProgress.length; i++) {
         let x = 0;
         setInterval(() => {

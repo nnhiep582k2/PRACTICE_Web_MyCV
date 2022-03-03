@@ -160,9 +160,12 @@
         color: white;
     }
     .navbar .center__part-progress1,
-    .navbar .center__part-progress5,
-    .navbar .center__part-progress7 {
+    .navbar .center__part-progress6,
+    .navbar .center__part-progress8 {
         width: 70%;
+    }
+    .navbar .center__part-progress5 {
+        width: 95%;
     }
     .navbar .center__part-progress2 {
         width: 75%;
@@ -171,7 +174,7 @@
         width: 90%;
     }
     .navbar .center__part-progress4,
-    .navbar .center__part-progress6 {
+    .navbar .center__part-progress7 {
         width: 85%;
     }
 }

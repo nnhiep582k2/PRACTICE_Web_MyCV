@@ -199,7 +199,7 @@ body {
 }
 @keyframes right {
     100% {
-        transform: rotate(90deg);
+        transform: rotate(108deg);
     }
 }
 .center__part-wrap {

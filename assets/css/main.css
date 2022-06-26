@@ -47,7 +47,6 @@ body {
 }
 /* Top of sidebar */
 .top {
-    height: 27vh;
     overflow: hidden;
     background: white;
     padding: 30px;

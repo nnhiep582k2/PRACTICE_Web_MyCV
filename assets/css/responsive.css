@@ -160,24 +160,28 @@
         color: white;
     }
     .navbar .center__part-progress1,
-    .navbar .center__part-progress9 {
+    .navbar .center__part-progress9,
+    .navbar .center__part-progress11 {
         width: 70%;
     }
     .navbar .center__part-progress5 {
         width: 95%;
     }
     .navbar .center__part-progress2,
-    .navbar .center__part-progress7 {
+    .navbar .center__part-progress8,
+    .navbar .center__part-progress12 {
         width: 75%;
     }
-    .navbar .center__part-progress3 {
+    .navbar .center__part-progress3,
+    .navbar .center__part-progress10 {
         width: 90%;
     }
     .navbar .center__part-progress4,
     .navbar .center__part-progress6 {
         width: 85%;
     }
-    .navbar .center__part-progress8 {
+    .navbar .center__part-progress7,
+    .navbar .center__part-progress9 {
         width: 80%;
     }
 }

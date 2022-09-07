@@ -161,27 +161,28 @@
     }
     .navbar .center__part-progress1,
     .navbar .center__part-progress9,
-    .navbar .center__part-progress11 {
+    .navbar .center__part-progress12 {
         width: 70%;
     }
-    .navbar .center__part-progress5 {
+    .navbar .center__part-progress6 {
         width: 95%;
     }
     .navbar .center__part-progress2,
-    .navbar .center__part-progress8,
-    .navbar .center__part-progress12 {
+    .navbar .center__part-progress9,
+    .navbar .center__part-progress13 {
         width: 75%;
     }
-    .navbar .center__part-progress3,
-    .navbar .center__part-progress10 {
+    .navbar .center__part-progress4,
+    .navbar .center__part-progress11 {
         width: 90%;
     }
-    .navbar .center__part-progress4,
-    .navbar .center__part-progress6 {
+    .navbar .center__part-progress5,
+    .navbar .center__part-progress7 {
         width: 85%;
     }
-    .navbar .center__part-progress7,
-    .navbar .center__part-progress9 {
+    .navbar .center__part-progress3,
+    .navbar .center__part-progress8,
+    .navbar .center__part-progress10 {
         width: 80%;
     }
 }
